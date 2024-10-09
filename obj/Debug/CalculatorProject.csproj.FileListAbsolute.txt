@@ -1,0 +1,15 @@
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\obj\Debug\CalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\pluck\Downloads\CalculatorProject-20241009T004743Z-001\CalculatorProject\obj\Debug\CalculatorProject.pdb

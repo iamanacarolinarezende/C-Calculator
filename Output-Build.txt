@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: CalculatorProject, Configuration: Debug Any CPU ------
+1>  CalculatorProject -> C:\Users\55279\source\repos\2023\Summer\420AP1AS\CalculatorProject\bin\Debug\CalculatorProject.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 9:34 PM and took 00.241 seconds ==========
